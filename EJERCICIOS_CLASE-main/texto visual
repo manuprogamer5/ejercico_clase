@@ -1,0 +1,16 @@
+function setup(){
+    
+    createCanvas(1000,1000);//200 ancho x 200 alto
+    background(100); // Rango de grises
+
+
+}
+
+
+function draw(){ 
+ var texto ="bonjour";
+ textSize(100);
+ text(texto, 100, 100);
+  
+
+}
